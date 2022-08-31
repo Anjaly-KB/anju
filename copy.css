@@ -231,7 +231,7 @@
 }
 
 #contact-form.no-placeholder .form-group label{
-    display:block;
+    display:center;
 }
 
 #contact-form .controls {
@@ -240,6 +240,7 @@
     /* margin-left: 70px; */
     border:1px solid #ddd;
     border-radius:2px;
+    
 }
 
 #contact-form .form-control {
